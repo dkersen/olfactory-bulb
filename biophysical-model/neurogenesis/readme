@@ -1,0 +1,2 @@
+The network files containing the network data as the system evolves with neurogenesis is split into A and B files. Horizontally concatenate these files in 
+Matlab in alphabetical order to restore the original file for each trial.
